@@ -2,7 +2,7 @@
 table {
   background-color: yellow;
   border: 1px solid black;
-  border-collapse: collapse; /* optional but makes it cleaner */
+  /* border-collapse: collapse; /* optional but makes it cleaner */ */
 }
 
 th, td {
