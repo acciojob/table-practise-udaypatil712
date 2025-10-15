@@ -1,4 +1,11 @@
-/*  your css code here. If applicable */
-table{
-background-color:yellow
+/* your css code here. If applicable */
+table {
+  background-color: yellow;
+  border: 1px solid black;
+  border-collapse: collapse; /* optional but makes it cleaner */
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
 }
